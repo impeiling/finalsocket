@@ -5,4 +5,4 @@ With this application,
 	The token list should always be sorted in lexicographical order.
 	Type of requests: SUBMIT, RETRIEVE and QUIT
 
-![alt text](https://drive.google.com/file/d/1_qdnYpzFNTzLYDy6e3bpOk2fn4DmiWwc/view?usp=sharing)
+![alt text](https://user-images.githubusercontent.com/107063850/193075890-4fb2d918-79c5-40dc-b644-d5a8642d9f65.png)
